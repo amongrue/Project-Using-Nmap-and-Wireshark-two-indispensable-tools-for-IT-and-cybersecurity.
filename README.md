@@ -1,0 +1,2 @@
+# Project-Using-Nmap-and-Wireshark-two-indispensable-tools-for-IT-and-cybersecurity.
+Nmap (Network Mapper) Network discovery and security auditing. Scans networks to identify what devices are running.  - Detects open ports and services.  - Infers operating systems and software versions.  - Performs security vulnerability scans with Nmap Scripting Engine.  Using Wireshark Protocol Analyzer-Network traffic analysis and troubleshoot.
